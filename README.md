@@ -1,6 +1,6 @@
-### **Collection Ver 1.0** 
+### **Collection Rev 1 Ver 1.0** 
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/4iSAt6O.jpg)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams Upscale Pack](https://) have a good read through this description.
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams Upscale Pack](https://) have a good read through this description.
 
 Its pretty basic this is a Collection of my Upscale Mods.
 
@@ -8,9 +8,9 @@ Its pretty basic this is a Collection of my Upscale Mods.
 
 # [Contents:](https://)
 
-1. What Is Included?   
-2. Read before installing.
-3. Warnings. 
+1. What Is Included❓  
+2. Read before installing❗
+3. Warnings❗
 4. Installation.
 5. Troubleshooting.
 6. Mod Settings and Overview. 
@@ -41,12 +41,18 @@ Collections may be frustrating. For this reason, we have an active [discord](htt
 
 ## ![img](https://i.imgur.com/IdqHWV6.png)
 
-- **🛑 DO NOT** use a pirated game. It is against Nexus rules and is illegal.  
-- **🛑 DO NOT** update any of the mods in this collection individually in **Vortex** when a mod updates we will update a full revision in order to keep everything up to date when you see a new revision update to it. Notes will be in the changelog.  
+## [IMPORTANT](https://)
 
-## [Updating Collection](https://)[   ](https://) 
+If you see this> ⛔ then you need to read and follow the directions.
 
-- **🛑** Updating the collection is as easy as clicking the **"Update"** button. When prompted to **"Remove mods from old revision"** make sure to click the **"Remove All"** button.  
+- ⛔ It Is important that you **READ** the following guide to fully understand everything clearly.
+- **⛔ DO NOT** use a pirated game. It is against Nexus rules and is illegal.  I wont offer any support for Cracked games.
+
+## [Updating Collection](https://)[   ](https://)
+
+- **⛔** Updating the collection is as easy as clicking the **"Update"** button. When prompted to **"Remove mods from old revision"** make sure to click the **"Remove All"** button. 
+- **⛔ DO NOT** update any of the mods in this collection individually in **Vortex** when a mod updates we will update a full revision.
+- Notes will be in the changelog. 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
