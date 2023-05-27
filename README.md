@@ -1,6 +1,8 @@
-**Collection Rev 2**
+IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/City-of-Dreams-Upscale-Pack)
 
-![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams Upscale Pack](https://)
+### Collection Rev 3            Collection Updated and working for Game version 1.62 Patch 1
+
+![img](https://i.imgur.com/wAJUpeU.png)![](https://s11.gifyu.com/images/Border11.jpg)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams 4k Graphics Pack](https://) .
 
 4k Graphics Pack.
 
@@ -66,17 +68,17 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [READ](https://)
 
-*   ⛔ It Is important that you 
+*   ⛔ It Is important that you
 
     **READ**
 
-     the following Installation guide to fully understand everything clearly.
+    the following Installation guide to fully understand everything clearly.
 
-*   ⛔ 
+*   ⛔
 
     **DO NOT**
 
-     use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
+    use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -92,21 +94,32 @@ If you see this> ⛔ then you need to read and follow the directions.
 
     " button.
 
-*   ⛔ 
+*   ⛔
 
     **DO NOT**
 
-     update any of the mods in this collection individually in 
-
-    **Vortex **
-
-    when a mod gets updated we will update the collection.
+    update any of the mods in this collection individually in**Vortex **when a mod gets updated we will update the collection.
 
 *   Notes will be in the changelog.
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://i.imgur.com/wAJUpeU.png)![](https://i.imgur.com/JyLQDVe.png)
 
-## ![img](https://i.imgur.com/JyLQDVe.png)[Cyberpunk2077](https://)
+## [READ](https://)
+
+*   ⛔ It Is important that you
+
+    **READ**
+
+    the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
+
+## [Install time](https://)
+
+**Premium Users**: Takes 2 hours + Semi-automatic. You can be AFK.\
+**Free Users:** Takes 2.5 hours + Semi-automatic. You will have to click on download for each mod one by one.
+
+***
+
+## [Cyberpunk2077](https://)
 
 1.  Start with a fresh install of
 
@@ -130,11 +143,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077\archive\pc\mod
 
 ## [Vortex](https://)
 
-1.  You will need 
-
-    **Vortex **
-
-    mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
+1.  You will need**Vortex **mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -218,7 +227,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 ![img](https://i.imgur.com/zCpg0Fp.png)
 
-**🛑 STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Windows, Cyberpunk2077, or the collection when you see errors on Vortex.
+**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Windows, Cyberpunk2077, or the collection when you see errors on Vortex.
 
 ## FAQ
 
@@ -280,21 +289,41 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 ![img](https://i.imgur.com/u4G5pz5.png)
 
-### **Upscaled Animations**
+## **Optimizations**
 
-*   HD Pachinko Palor
+*   [Raytracing Overdrive Optimizations](https://www.nexusmods.com/cyberpunk2077/mods/8059)
 
-*   QHD Edgerunner Braindance
+***
 
-*   QHD Intro
+## **Settings**&#x20;
 
-*   UHD Character Selection Screen
+*   [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989)
 
-*   UHD Main Menu Splash Screens
+***
 
-*   UHD Splash Screen
+## **Upscaled Animations**
+
+*   [HD Pachinko Palor](https://www.nexusmods.com/cyberpunk2077/mods/8123)
+
+*   [QHD Edgerunner Braindance](https://www.nexusmods.com/cyberpunk2077/mods/8122)
+
+*   [QHD Intro](https://www.nexusmods.com/cyberpunk2077/mods/8128)
+
+*   [UHD Character Selection Screen](https://www.nexusmods.com/cyberpunk2077/mods/8119)
+
+*   [UHD Main Menu Splash Screens](https://www.nexusmods.com/cyberpunk2077/mods/8133)
+
+*   [UHD Splash Screen](https://www.nexusmods.com/cyberpunk2077/mods/8116)
+
+*   [Clean Loading Screens](https://www.nexusmods.com/cyberpunk2077/mods/8188)
+
+***
 
 ## **Upscaled Textures**
+
+
+
+> **Body**
 
 *   [High-Res Cyberware - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6064?tab=description)
 
@@ -304,21 +333,17 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 *   [High-Res Makeup - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6053?tab=description)
 
-*   [High-Res Graffiti - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6300?tab=description)
-
-*   [High-Res Architecture - V's Apartment - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6305?tab=description)
-
-*   [High-Res Unnamed NPC Faces - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7089)
-
-*   [High-Res NPCs - Johnny Silverhand](https://www.nexusmods.com/cyberpunk2077/mods/7168)
-
-*   [High-Res Posters and Signs - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6795)
-
 *   [High-Res Hair and Beards - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7184)
+
+> **UI**
 
 *   [High-Res Worldmap - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7180)
 
+> **NPCs**
+
 *   [High-Res NPCs - Jackie Welles](https://www.nexusmods.com/cyberpunk2077/mods/7163)
+
+*   [High-Res NPCs - Johnny Silverhand](https://www.nexusmods.com/cyberpunk2077/mods/7168)
 
 *   [High-Res NPCs - Dexter DeShawn](https://www.nexusmods.com/cyberpunk2077/mods/7172)
 
@@ -328,11 +353,7 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 *   [High-Res NPCs - Judy Alvarez](https://www.nexusmods.com/cyberpunk2077/mods/7430?tab=description)
 
-*   [High-Res Clothing - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7301?tab=description)
-
 *   [High Res NPCs - Rogue Amendiares](https://www.nexusmods.com/cyberpunk2077/mods/7545?tab=description)
-
-*   [High-Res Vending Machines - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7261?tab=description)
 
 *   [High-Res NPCs - T-Bug](https://www.nexusmods.com/cyberpunk2077/mods/7431?tab=description)
 
@@ -347,8 +368,6 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 *   [High-Res NPCs - Evelyn Parker](https://www.nexusmods.com/cyberpunk2077/mods/7541?tab=description)
 
 *   [High Res NPCs - Ozob Bozo](https://www.nexusmods.com/cyberpunk2077/mods/7544?tab=description)
-
-*   [High-Res Stickers - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7282)
 
 *   [High-Res NPCs - Delamain](https://www.nexusmods.com/cyberpunk2077/mods/7540?tab=description)
 
@@ -400,23 +419,81 @@ Always double-check Vortex to make sure it uninstalled/installed something prope
 
 *   [High Res NPCs - Deputy Mayor Weldon Holt](https://www.nexusmods.com/cyberpunk2077/mods/7958?tab=description)
 
-*   [High Res Food and Drinks - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7999?tab=description)
-
-*   [High Res Containers - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7998?tab=description)
-
 *   [High Res Minor Named NPCs](https://www.nexusmods.com/cyberpunk2077/mods/8045?tab=description)
 
 *   [High Res NPCs - Dum Dum](https://www.nexusmods.com/cyberpunk2077/mods/8049?tab=description)
 
 *   [High Res NPCs - Altiera Cunningham](https://www.nexusmods.com/cyberpunk2077/mods/7624?tab=description)
 
+*   [High-Res Unnamed NPC Faces - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7089)
+
+> **Items**
+
+*   [High Res Food and Drinks - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7999?tab=description)
+
+*   [High Res Containers - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7998?tab=description)
+
+*   [High-Res Vending Machines - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7261?tab=description)
+
+*   [High-Res Clothing - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7301?tab=description)
+
+> **Surfaces**
+
+*   [asphalt_patches_4K-8K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [environment_rocks](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces - concrete 4K 2nd Version PART I](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces - concrete 4K 2nd Version PART II](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces - microblends 4K UPDATE](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_asphalt_4K_second_version](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_bricks_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_cinderblocks_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_grass](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_gravel](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_metal_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_mud_and_soil_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_paint_fine_thick_flaked_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_plaster_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_sand_and_soil_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [surfaces_tiles_4K](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [terrain_rock_cliff](https://www.nexusmods.com/cyberpunk2077/mods/2723?tab=description)
+
+*   [High-Res Stickers - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/7282)
+
+*   [High-Res Graffiti - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6300?tab=description)
+
+*   [High-Res Posters and Signs - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6795)
+
+> **Locations**
+
+*   [High-Res Architecture - V's Apartment - Upscaled Textures](https://www.nexusmods.com/cyberpunk2077/mods/6305?tab=description)
+
 ![img](https://i.imgur.com/wAJUpeU.png)
 
 ![img](https://i.imgur.com/eESs6Q9.png)
 
-*   🛑 Please don't use a similar name to this collection.
+*   **⛔**
 
-*   🛑 I do not allow you to copy or clone this collection in any way.
+    Please don't use a similar name to this collection.
+
+*   **⛔**
+
+    I do not allow you to copy or clone this collection in any way.
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
