@@ -1,7 +1,7 @@
 ![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
-[CURRENT UPDATE]
+[UNRELEASD UPDATE]
 
-[HEY CHOOMS Rev 4 is here](https://)
+[HEY CHOOMS Rev 6 is COMING SOON](https://)
 -
 
 NOTES
@@ -10,12 +10,13 @@ NOTES
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 Added to the description.
 
+UPDATED
+-
+
+
 NEW MODS ADDED 
 -
 
-- [Clean Loading Screens](https://www.nexusmods.com/cyberpunk2077/mods/8188)
-- [Unlock Fov](https://www.nexusmods.com/cyberpunk2077/mods/7989)
-- [Raytracing Overdrive Optimizations](https://www.nexusmods.com/cyberpunk2077/mods/8059)
 
 BUGS
 -
