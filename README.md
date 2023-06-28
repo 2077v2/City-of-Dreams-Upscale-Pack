@@ -1,6 +1,6 @@
 IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/City-of-Dreams-Upscale-Pack)
 
-### Collection Rev 4            Collection Updated and working for Game version 1.62 Patch 1
+### Collection Rev 6            Collection Updated and working for Game version 1.62 Patch 1
 
 ![](https://s11.gifyu.com/images/Border11.jpg)Hey, Chooms [v2](https://www.nexusmods.com/users/123334373) here this is the [City of Dreams 4k Graphics Pack](https://) .
 
